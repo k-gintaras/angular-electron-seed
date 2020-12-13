@@ -1,4 +1,18 @@
-# Setup
+# How to use seed or how to make your owns
+
+Clone
+npm install (for electron), cd to app-name, npm install (for angular)
+ng serve
+or cd ..
+npm run electron
+
+## How to make your own?
+
+follow below steps
+I tried to make most of steps into executable command liners.
+Use those or manually edit files.
+
+## Setup
 
 ## Setup with powershell
 
