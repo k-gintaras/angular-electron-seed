@@ -1,4 +1,4 @@
-# How to use seed or how to make your owns
+# How to use seed or how to make your own
 
 Clone
 npm install (for electron), cd to app-name, npm install (for angular)
